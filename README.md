@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/cmschandan/cmschandan/main/yt-ck-programming.jpg">
+
 ### Hi there 👋
 ### I am a Full Stack Developer.
   <hr>
