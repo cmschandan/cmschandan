@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://komarev.com/ghpvc/?username=cmschandan&label=PROFILE+VIEWS&color=blueviolet" >
+<p align="left"> <a href="https://twitter.com/hrefcoder" target="blank"><img src="https://img.shields.io/twitter/follow/hrefcoder?logo=twitter&style=for-the-badge" alt="ChandanKumar" /></a> </p>
 <div align="center"><img alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmschandan" alt="cmschandan" /></a> </p>
