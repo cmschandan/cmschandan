@@ -3,7 +3,7 @@
 ### Hi there 👋
 ### I am a Full Stack Developer.
   
-  - 🔭 I’m currently working on Angular 14.
+  - 🔭 I’m currently working on Angular 14 Projects.
   - 💬 Ask me about HTML, CSS, JavaScript & Angular.
 
 ### Connect at me
