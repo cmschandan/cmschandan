@@ -2,9 +2,10 @@
 
 ### Hi there 👋
 ### I am a Full Stack Developer.
-  <hr>
+  
   - 🔭 I’m currently working on Angular 14.
   - 💬 Ask me about HTML, CSS, JavaScript & Angular.
+
 ### Connect at me
 <hr>
 <a href="https://twitter.com/hrefcoder" target="_blank"><img src="https://camo.githubusercontent.com/b1b1f1441f9ad8aadc569da20dc9615f056b1c0d87fad28c84662213065061a8/68747470733a2f2f692e696d6775722e636f6d2f473779544448502e706e67" width="50px"></a>
